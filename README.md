@@ -1,1 +1,1 @@
-Learning python and backend devlopment,it includes basic to intermediate understanding of python such as oops and function,conditionals,loops and data structure,etc and fastapi for backend
+Learning Python and backenddevelopment. Currently on Python fundamentals (CS50P). FastAPI and PostgreSQL planned.
